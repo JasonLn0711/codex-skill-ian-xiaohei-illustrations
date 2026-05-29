@@ -66,6 +66,7 @@ The six-role system is documented in:
 - [references/mascot-cards.yaml](references/mascot-cards.yaml)
 - [references/metaphor-cards.md](references/metaphor-cards.md)
 - [examples/shot-lists.md](examples/shot-lists.md)
+- [examples/themes/](examples/themes/)
 
 The role limit is intentional. Adding more mascots risks turning the project
 into lore instead of a tool for explaining ideas.
@@ -294,6 +295,7 @@ The skill workflow is:
 │   │   ├── thinking-roles-v0/
 │   │   └── xiaoquan-generated/
 │   ├── shot-lists.md
+│   ├── themes/
 │   └── prompts.md
 ├── references/
 │   ├── mascot-cards.yaml
