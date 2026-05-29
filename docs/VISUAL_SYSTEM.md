@@ -44,6 +44,32 @@ Examples:
 - 小紫 uses a purple review stamp, magnifier, warning mark, or checklist.
 - 小黃 uses sparks, dots, loose lines, or a surprising metaphor card.
 
+## Visual Differentiation Contract
+
+The six roles must be distinguishable at three levels:
+
+1. Thinking function: what question the mascot asks.
+2. Silhouette: how the mascot reads even before labels are visible.
+3. Scene behavior: what kind of object the mascot naturally manipulates.
+
+Do not solve differentiation by changing the whole body color. The shared
+system language stays white background, black hand drawing, and small accent
+colors. The role identity comes from silhouette, prop, posture, motion, and
+scene anchor.
+
+| Mascot | Silhouette | Signature Prop | Motion Language | Accent Placement |
+| --- | --- | --- | --- | --- |
+| 小黑 | round soft black blob, tiny legs, wide still eyes | broken part, weird gap, loose thread | stare, point, pause, lean toward anomaly | mostly black body; almost no color |
+| 小拳 | compact black body with one oversized glove-like fist | press, stamp, stop pedal, red/orange target dot | compress, stamp, push through, prune | red/orange on fist path, stamp, or pressure point |
+| 小藍 | narrow black body with tiny blue glasses or antenna nodes | node pen, ruler, boundary wire, grid card | align, connect, label boundary, map causality | blue on glasses, nodes, wires, or grid |
+| 小綠 | small black body carrying a sprout or repair patch | watering can, soil tray, fermentation jar, bandage | water, mend, tend, compost, wait | green on sprout, growth marks, soil edge, or repair patch |
+| 小紫 | black body with purple magnifier / stamp posture | magnifier, checklist, audit stamp, warning tape | inspect, circle flaw, block shortcut, compare record | purple on magnifier, stamp, check mark, or audit ring |
+| 小黃 | black body with spark crown or loose jump lines | spark card, odd connector, metaphor switch, open box | jump, connect distant objects, light spark, reframe | yellow on sparks, loose orbit lines, or idea card |
+
+Minimum visual rule: if the accent color is removed, the silhouette and prop
+should still hint at the role. If the prop is removed, the posture and scene
+behavior should still hint at the role.
+
 ## The Six Mascots
 
 | Mascot | Thinking Function | Use For | Accent Cue |
@@ -106,6 +132,8 @@ Before publishing an update:
 - [ ] New generated images have provenance records.
 - [ ] QR code images were not modified unless explicitly requested.
 - [ ] Generated images follow this visual system.
+- [ ] Each mascot has a distinct silhouette, prop, and scene behavior.
+- [ ] Role samples cover all six mascots before the README claims a complete role set.
 - [ ] No final illustration was generated with PIL, SVG, Canvas, Matplotlib, or diagram tools.
 - [ ] Traditional Chinese annotations use Taiwan wording.
 - [ ] No Simplified Chinese appears in handwritten annotations.

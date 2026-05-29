@@ -14,6 +14,9 @@ Mascot character required:
 Thinking role selection:
 Before choosing the mascot, choose the thinking function: anomaly_observation, compression_and_execution, structure_and_logic, growth_and_repair, critique_and_risk, or imagination_and_jump. The mascot must represent that thinking function. Do not create a character universe, do not add a seventh mascot, and do not use a mascot only because it looks cute.
 
+Role visual identity:
+Give the selected mascot a distinct silhouette, signature prop, motion language, and accent placement from `references/mascot-cards.yaml`. Do not differentiate roles by making the whole body blue, green, purple, or yellow. Keep the body mostly black; use only small role accents.
+
 The mascot must perform the core conceptual action, not decorate the scene. Keep the mascot serious, deadpan, slightly bizarre, and not cute.
 
 Theme:

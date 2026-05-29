@@ -21,11 +21,12 @@ Use $ian-xiaohei-illustrations 先不要生成圖片。
 <貼上文章>
 ```
 
-## 文章內文配圖
+## 角色分工文章內文配圖
 
 ```text
-Use $ian-xiaohei-illustrations 把下面這篇文章生成 4 張小黑怪誕內文配圖。
+Use $ian-xiaohei-illustrations 把下面這篇文章生成 4 張角色分工明確的怪誕內文配圖。
 要求：16:9 橫式、純白背景、黑色手繪線稿、少量紅橙藍中文手寫批註。
+每張先選 thinking function，再選小黑 / 小拳 / 小藍 / 小綠 / 小紫 / 小黃。
 每張圖只講一個核心結構，不要做 PPT 資訊圖，不要可愛卡通。
 
 <貼上文章>
@@ -88,10 +89,11 @@ Use $ian-xiaohei-illustrations 這張圖方向對，但小黑有點像裝飾。
 畫面更怪一點，但仍然純白、清爽、少字。
 ```
 
-## 生成一組風格樣片
+## 生成一組角色樣片
 
 ```text
-Use $ian-xiaohei-illustrations 輸出 5 個不同主題的小黑內文配圖效果。
-主題分別覆蓋：資訊過載、產品驗證、內容複利、一人公司、信任建立。
+Use $ian-xiaohei-illustrations 輸出 6 個思考功能角色樣片。
+角色分別是：小黑、小拳、小藍、小綠、小紫、小黃。
+每張都要有不同 silhouette、signature prop、motion language 與小面積識別色。
 每張單獨生成，不要拼成一張。
 ```
