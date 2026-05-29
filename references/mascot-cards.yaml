@@ -1,0 +1,152 @@
+mascots:
+  - id: xiaohei
+    name: 小黑
+    function: anomaly_observation
+    core_question: 哪裡怪怪的？
+    color_accent: black
+    used_for:
+      - problem discovery
+      - confusion
+      - hidden contradiction
+      - absurd stuck state
+    visual_cues:
+      - soft black body
+      - confused eyes
+      - pointing at gaps
+      - holding broken object
+    actions:
+      - staring
+      - holding broken object
+      - pointing at weird gap
+      - sitting beside tangled lines
+    avoid:
+      - generic black icon
+      - decorative mascot only
+      - cute sticker feeling
+
+  - id: xiaoquan
+    name: 小拳
+    function: compression_and_execution
+    core_question: 什麼可以砍掉？
+    color_accent: red_or_orange
+    used_for:
+      - simplify
+      - decide
+      - remove noise
+      - force action
+    visual_cues:
+      - small fist
+      - stamp marks
+      - flattened branches
+      - red or orange pressure point
+    actions:
+      - press flat
+      - stamp
+      - knock out branches
+      - push through blockage
+    avoid:
+      - violent feeling
+      - superhero style
+      - pure aggression
+      - fighting pose
+
+  - id: xiaolan
+    name: 小藍
+    function: structure_and_logic
+    core_question: 結構是什麼？
+    color_accent: blue
+    used_for:
+      - system map
+      - workflow
+      - causal chain
+      - first principle decomposition
+    visual_cues:
+      - blue nodes
+      - grid lines
+      - connection wires
+      - tiny blue glasses
+    actions:
+      - draw nodes
+      - connect wires
+      - align boxes
+      - mark system boundaries
+    avoid:
+      - cold corporate flowchart
+      - dense architecture diagram
+      - full-body blue character
+
+  - id: xiaolu
+    name: 小綠
+    function: growth_and_repair
+    core_question: 它怎麼長大？
+    color_accent: green
+    used_for:
+      - learning plan
+      - habits
+      - long-term research
+      - repair and recovery
+    visual_cues:
+      - sprout
+      - soil
+      - fermentation jar
+      - small green growth lines
+    actions:
+      - water seed
+      - repair crack
+      - tend fermentation jar
+      - compost failed draft
+    avoid:
+      - generic nature mascot
+      - full-body green character
+      - sentimental growth poster
+
+  - id: xiaozi
+    name: 小紫
+    function: critique_and_risk
+    core_question: 哪裡會壞掉？
+    color_accent: purple
+    used_for:
+      - QA
+      - review
+      - risk control
+      - adversarial thinking
+      - provenance check
+    visual_cues:
+      - magnifier
+      - purple stamp
+      - warning marks
+      - checklist
+    actions:
+      - inspect with magnifier
+      - stamp rejection
+      - circle flaw
+      - block shortcut
+    avoid:
+      - mean reviewer caricature
+      - scolding pose
+      - full-body purple character
+
+  - id: xiaohuang
+    name: 小黃
+    function: imagination_and_jump
+    core_question: 還能怎麼想？
+    color_accent: yellow
+    used_for:
+      - metaphor
+      - creative leap
+      - surprising analogy
+      - playful reframing
+    visual_cues:
+      - sparks
+      - light dots
+      - loose swirling lines
+      - odd metaphor card
+    actions:
+      - light spark
+      - connect unrelated objects
+      - jump out of box
+      - turn dull concept into object
+    avoid:
+      - random decoration
+      - generic lightbulb icon
+      - full-body yellow character

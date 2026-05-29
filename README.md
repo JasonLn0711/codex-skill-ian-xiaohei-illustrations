@@ -48,6 +48,28 @@ Xiaoquan**. Xiaoquan is a quiet, minimal problem-solving character with one
 slightly larger glove-like fist used as a conceptual tool. It is not based on
 any existing manga, anime, game, or brand character.
 
+## Thinking Character System
+
+This repository treats mascots as visual thinking functions, not as a character
+universe. Each mascot answers one conceptual question:
+
+- 小黑: 哪裡怪怪的？
+- 小拳: 什麼可以砍掉？
+- 小藍: 結構是什麼？
+- 小綠: 它怎麼長大？
+- 小紫: 哪裡會壞掉？
+- 小黃: 還能怎麼想？
+
+The six-role system is documented in:
+
+- [docs/VISUAL_SYSTEM.md](docs/VISUAL_SYSTEM.md)
+- [references/mascot-cards.yaml](references/mascot-cards.yaml)
+- [references/metaphor-cards.md](references/metaphor-cards.md)
+- [examples/shot-lists.md](examples/shot-lists.md)
+
+The role limit is intentional. Adding more mascots risks turning the project
+into lore instead of a tool for explaining ideas.
+
 ## Intended Users
 
 This skill is useful for:
@@ -240,13 +262,22 @@ The skill workflow is:
 ├── NOTICE.md
 ├── assets/
 │   └── ian-wechat-qr.jpg
+├── docs/
+│   ├── GENERATION_PROTOCOL.md
+│   └── VISUAL_SYSTEM.md
 ├── examples/
 │   ├── images/
 │   │   ├── 01-two-breakpoints.png
 │   │   ├── 02-sort-by-purpose.png
 │   │   ├── ...
 │   │   └── xiaoquan-generated/
+│   ├── shot-lists.md
 │   └── prompts.md
+├── references/
+│   ├── mascot-cards.yaml
+│   └── metaphor-cards.md
+├── scripts/
+│   └── check_repo_rules.py
 └── ian-xiaohei-illustrations/
     ├── SKILL.md
     ├── agents/
