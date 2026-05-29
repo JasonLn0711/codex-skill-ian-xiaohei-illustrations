@@ -11,6 +11,9 @@ Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen
 Mascot character required:
 {吉祥物設定。未指定時使用小黑：a small solid-black absurd creature with white dot eyes, tiny thin legs, blank serious expression, slightly uneven hand-drawn body shape. 若指定小拳，使用小拳：an original minimalist calm problem-solving mascot with a simple small body, blank serious expression, and one slightly larger glove-like fist used as a conceptual tool, not a fighting pose.}
 
+Thinking role selection:
+Before choosing the mascot, choose the thinking function: anomaly_observation, compression_and_execution, structure_and_logic, growth_and_repair, critique_and_risk, or imagination_and_jump. The mascot must represent that thinking function. Do not create a character universe, do not add a seventh mascot, and do not use a mascot only because it looks cute.
+
 The mascot must perform the core conceptual action, not decorate the scene. Keep the mascot serious, deadpan, slightly bizarre, and not cute.
 
 Theme:
