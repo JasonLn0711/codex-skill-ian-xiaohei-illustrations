@@ -70,6 +70,27 @@ The six-role system is documented in:
 The role limit is intentional. Adding more mascots risks turning the project
 into lore instead of a tool for explaining ideas.
 
+## Thinking Role Samples
+
+These images are the first role-system samples generated one-by-one with
+`image_gen`. They test only the minimum starting set before expanding the
+remaining roles:
+
+### 小黑：異常觀察
+
+![小黑：異常觀察](examples/images/thinking-roles-v0/01-xiaohei-anomaly-observation.png)
+
+### 小拳：壓縮執行
+
+![小拳：壓縮執行](examples/images/thinking-roles-v0/02-xiaoquan-compression-execution.png)
+
+### 小紫：審查風險
+
+![小紫：審查風險](examples/images/thinking-roles-v0/03-xiaozi-critique-risk.png)
+
+Provenance records are stored in
+[examples/images/thinking-roles-v0/README.md](examples/images/thinking-roles-v0/README.md).
+
 ## Intended Users
 
 This skill is useful for:
@@ -270,6 +291,7 @@ The skill workflow is:
 │   │   ├── 01-two-breakpoints.png
 │   │   ├── 02-sort-by-purpose.png
 │   │   ├── ...
+│   │   ├── thinking-roles-v0/
 │   │   └── xiaoquan-generated/
 │   ├── shot-lists.md
 │   └── prompts.md
