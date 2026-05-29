@@ -63,11 +63,18 @@ notes: Original generated image retained under ~/.codex/generated_images/.
 
 ## Existing Example Records
 
-The current Xiaoquan README examples keep their per-file source records in:
+Current README example galleries keep their per-file source records in:
 
 ```text
+examples/images/thinking-roles-v0/README.md
+examples/images/role-examples-v1/README.md
 examples/images/xiaoquan-generated/README.md
 ```
+
+The `thinking-roles-v0` directory is the current role-sample gallery. The
+`role-examples-v1` directory is the current article-example gallery. The older
+`xiaoquan-generated` directory is retained as a previous generated calibration
+set, not the main README gallery.
 
 The upstream calibration examples under `examples/images/*.png` and
 `ian-xiaohei-illustrations/assets/examples/*.png` are retained as inherited
